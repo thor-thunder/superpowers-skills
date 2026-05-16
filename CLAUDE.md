@@ -2,6 +2,11 @@
 
 A collection of powerful skills and tools for Claude Code, extending Claude's capabilities for specialized tasks.
 
+## Core Philosophy
+
+* Let AI build it, and iterate by feeling. And all of this without years of technical training required.
+* Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one by one.
+
 ## Project Overview
 
 This repository contains skill implementations that enhance Claude's ability to handle complex workflows, including atomic operations, task management, and advanced development tools.
